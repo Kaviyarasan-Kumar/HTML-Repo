@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>kaviyarasan</title>
+</head>
+<body>
+       <center><h1>About me</h1></center>
+       <p>name:kaviyarasan.k<br>degree:BA.literature.<br>SSLC:80%<br>:HLC:79%<br>completed web develoment course at kgisl microcollege</center>
+       <center><h1>qualities</h1></center>
+       <center><h1>honesty</h1></center>
+       <center><h2>motivatio</h2></center>
+       <center><h3>time management</h3></center>
+       <center><h4>team work</h4><cente>
+       <center><h5>creativity</h5></center>
+       <center><h6>confidence</h6></center>
+       <img src="kavi.jpg" alt="no image" height="50px" width="50">
+ 	 <button>submit</button>
+       
